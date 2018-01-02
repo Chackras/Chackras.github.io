@@ -9,8 +9,8 @@
     	{% endcase %}
     	{% for c in page.comments %}
     		<div class="comment {% cycle 'odd', 'even' %}">
-          <p align="center">
-    			<p class="comment_header">
+
+    			<p class="comment_header" "align="center" >
     				From: {% if c.link and c.link != '' %}
     					<a href="{{c.link}}">{{c.name}}</a>
     				{% else %}
