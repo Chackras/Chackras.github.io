@@ -1,0 +1,31 @@
+# Site settings
+title: Chad Smith
+email: Chackras@gmail.com
+url: "https://chackras.github.io"
+baseurl: "/Blog.io"
+description: "I am an instructional designer with a passion for education, and training. I am frequently studying and applying my newfound skills to various projects. This is the place where I will illustrate my projects and expound on my methods."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#67676b'
+
+# Footer settings
+footer: Chackras Lee Smith
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/Chackras
+  - title: google +
+    url: https://plus.google.com/u/0/+ChackrasSmith
+  - title: twitter
+    url: https://twitter.com/Chackras_Smith
+  - title: linkedin
+    url: https://www.linkedin.com/in/chadlsmith/
+  - title: github
+    url: https://github.com/Chackras
+
+# Build settings
+markdown: kramdown
+permalink: pretty
