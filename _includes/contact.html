@@ -1,0 +1,29 @@
+    <!-- Contact Section -->
+    <section id="contact" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+            </div>
+        </div>
+        <div class="bg-dark clearfix">
+          <div class="inner-text">
+            <p class="no-margin color-light ">
+              <h2> Contact </h2>
+              <strong class="fix-width-100"><i class="fa fa-phone margin-right-5"></i> Phone</strong> : + (727) 228-0215<br/>
+              <strong class="fix-width-100"><i class="fa fa-envelope margin-right-5"></i> Email</strong> : Chackras@gmail.com<br/>
+              <strong class="fix-width-100"><i class="fa fa-globe margin-right-5"></i> Website</strong> : www.Chackras.com<br/>
+              <strong class="fix-width-100"><i class="fa fa-location-arrow margin-right-5"></i> Location</strong> : Dunedin, Florida<br/>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+        <ul class="list-inline banner-social-buttons">
+                    {% for network in site.social %}
+                    <li>
+                        <a href="{{ network.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ network.title }} fa-fw"></i> <span class="network-name">{{ network.title }}</span></a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </section>
