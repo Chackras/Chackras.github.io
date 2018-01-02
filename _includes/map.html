@@ -4,3 +4,21 @@ textarea.html-text-box {position: relative;left: 62%;margin-top: 0px;margin-left
 input.html-text-box {position: relative;left: 62%;margin-top: 0px;margin-left: -135px;background-color:#000005;font-family:Arial;font-size:14pt;color:#FFFFFF;}
 </style>
 <form method="post" action="#"><textarea name="comments" cols="30" rows="5" class="html-text-box">Comments here...</textarea><br><input type="submit" value="Submit" class="html-text-box"><input type="reset" value="Reset" class="html-text-box"></form>
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+
+var disqus_config = function () {
+this.page.url = "{{site.url}}{{page.url}}";
+this.page.identifier = "{{page.id}}"; 
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://chackras.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
