@@ -273,6 +273,7 @@ a:focus {
    right: 0;
    top: 0;
    bottom: 0;
+   padding: 200px 0;
 }
 
 #map {
