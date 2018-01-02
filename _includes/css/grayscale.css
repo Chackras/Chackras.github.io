@@ -264,9 +264,11 @@ a:focus {
     -o-background-size: cover;
 }
 
-#disqus_thread {
-    padding-left: 50px;
-    padding-right: 50px;
+#map {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
 }
 
 @media(min-width:767px) {
