@@ -5,13 +5,13 @@ input.html-text-box {position: relative;left: 62%;margin-top: 0px;margin-left: -
 </style>
 <form method="post" action="#"><textarea name="comments" cols="30" rows="5" class="html-text-box">Comments here...</textarea><br><input type="submit" value="Submit" class="html-text-box"><input type="reset" value="Reset" class="html-text-box"></form>
 
-{% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
 
+
 var disqus_config = function () {
-this.page.url = "{{site.url}}{{page.url}}";
-this.page.identifier = "{{page.id}}"; 
+this.page.url = "{{ site.baseurl }}{{ post.url }}";
+this.page.identifier = "{{ post.title }}";
 };
 */
 (function() { // DON'T EDIT BELOW THIS LINE
