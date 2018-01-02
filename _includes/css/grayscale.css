@@ -265,8 +265,14 @@ a:focus {
 }
 
 #disqus_thread {
-    padding-left: 50px;
-    padding-right: 50px;
+   width: 100px;
+   height: 100px;
+   position: absolute;
+   margin: auto;
+   left: 0;
+   right: 0;
+   top: 0;
+   bottom: 0;
 }
 
 #map {
