@@ -8,8 +8,7 @@
     			<h1>{{page.comment_count}} </h1>
     	{% endcase %}
     	{% for c in page.comments %}
-    		<div class="comment {% cycle 'odd', 'even' %}"
-         <div class="center">
+    		 <div class="comment {% cycle 'odd', 'even' %}"
     			 <p class="comment_header">
     				From: {% if c.link and c.link != '' %}
     					<a href="{{c.link}}">{{c.name}}</a>
