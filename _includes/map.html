@@ -5,12 +5,11 @@
     		{% when 1 %}
     			<h1>1 Comment</h1>
     		{% else %}
-    			<h1>{{page.comment_count}} Comments</h1>
+    			<h1>{{page.comment_count}} </h1>
     	{% endcase %}
     	{% for c in page.comments %}
-    		<div class="comment {% cycle 'odd', 'even' %}">
-
-    			<p class="comment_header" "align="center" >
+    		<div class="comment {% cycle 'odd', 'even' %}"
+    			<p class="comment_header">
     				From: {% if c.link and c.link != '' %}
     					<a href="{{c.link}}">{{c.name}}</a>
     				{% else %}
