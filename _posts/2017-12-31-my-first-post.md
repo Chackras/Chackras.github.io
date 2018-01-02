@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: My First Blog Post!
+comments: true
 ---
 <center><h1> My First Blog Post! </h1></center>
 <p align="center">
