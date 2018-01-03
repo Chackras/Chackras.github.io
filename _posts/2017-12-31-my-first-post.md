@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: posts
 title: My First Blog Post!
 ---
 <center><h1> My First Blog Post! </h1></center>
