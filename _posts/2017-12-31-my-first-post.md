@@ -4,7 +4,7 @@ title: My First Blog Post!
 ---
 <center><h1> My First Blog Post! </h1></center>
 <p align="center">
-<img src="http://www.picserver.org/images/highway/phrases/learning.jpg">
+<img src="#">
 </p>
 <p style="margin-left:5em; margin-right:10em;">Continued from page 1: to ensure students specialized in curriculum and assessment design, development, evaluation, and implementation. Working in the K-12 school system for the past eight years has provided me with ample instructional design experience, from developing entire curriculums to individual instruction in the traditional, blended, and eLearning environments. I have done this in various L.M.S. such as Blackboard, Canvas, and Moodle.
 
