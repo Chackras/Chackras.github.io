@@ -250,8 +250,6 @@ a:focus {
 
 .content-section {
     padding-top: 100px;
-    padding-left: 50px;
-    padding-right: 50px;
 }
 
 .download-section {
@@ -264,6 +262,12 @@ a:focus {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+.posts {
+    padding-left: 50px;
+    padding-right: 50px;
+}
 
 #disqus_thread {
     padding-left: 50px;
