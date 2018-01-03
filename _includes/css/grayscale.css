@@ -38,6 +38,8 @@ p {
 
 @media(min-width:767px) {
     p {
+        padding-left: 50px;
+        padding-right: 50px;
         margin: 0 0 35px;
         font-size: 20px;
         line-height: 1.6;
@@ -262,11 +264,6 @@ a:focus {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-}
-
-.posts {
-    padding-left: 50px;
-    padding-right: 50px;
 }
 
 #disqus_thread {
