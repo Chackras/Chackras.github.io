@@ -3,8 +3,8 @@ layout: posts
 title: My First Blog Post!
 ---
 <center><h1> My First Blog Post! </h1></center>
-<a align="center">
-<img src="#"> </a>
+<p align="center">
+<img src="http://krhc.ac.tz/wp-content/uploads/2014/07/teaching-motivation-message.jpg"></p> 
 
 <p>Continued from page 1: to ensure students specialized in curriculum and assessment design, development, evaluation, and implementation. Working in the K-12 school system for the past eight years has provided me with ample instructional design experience, from developing entire curriculums to individual instruction in the traditional, blended, and eLearning environments. I have done this in various L.M.S. such as Blackboard, Canvas, and Moodle.</p>
 
