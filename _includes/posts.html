@@ -1,8 +1,5 @@
 <!-- Posts Section -->
 <div id="posts"></div>
-    <div class="row">
-        <div class="text-center">
-          <h2>Blog</h2>
           <ul>
              {% for post in site.posts%}
                 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%d %B %Y" }}{{ post.excerpt }}</li>
