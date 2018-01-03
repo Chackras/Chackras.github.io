@@ -263,10 +263,7 @@ a:focus {
     background-size: cover;
     -o-background-size: cover;
 }
-#blog { padding-left: 15%
-        padding-right: 15%
-      }
-      
+
 #disqus_thread {
     padding-left: 50px;
     padding-right: 50px;
