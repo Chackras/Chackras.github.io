@@ -265,8 +265,8 @@ a:focus {
 }
 
 #posts {
-    padding-left: 15%;
-    padding-right: 15%;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 #disqus_thread {
