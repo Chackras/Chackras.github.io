@@ -264,7 +264,7 @@ a:focus {
     -o-background-size: cover;
 }
 
-#posts {
+.posts {
     padding-left: 50px;
     padding-right: 50px;
 }
