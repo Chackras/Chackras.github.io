@@ -4,7 +4,7 @@
           <h2 align=center>Blog</h2>
           <ul style="list-style-position: inside">
              {% for post in site.posts%}
-                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%d %B %Y" }} <p>{{ post.excerpt }}</p></li>
+                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%d %B %Y" }}{{ post.excerpt | strip_html | truncatewords:75 }}</li>
              {% endfor %}
          </ul>
       </div>
