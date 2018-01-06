@@ -1,10 +1,10 @@
 <!-- Blog Section -->
-<section id="blog" class="container content-section text-align: center">
+<section id="blog" class="container content-section text-align">
     <div class="row">
           <h2 align=center>Blog</h2>
-          <ul style="list-style-position: center">
+          <ul style="list-style-position: inside">
              {% for post in site.posts%}
-                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%d %B %Y" }}</li>
+                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%d %B %Y" }} <p>{{ post.excerpt }}</p></li>
              {% endfor %}
          </ul>
       </div>
