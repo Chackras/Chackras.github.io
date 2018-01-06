@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Designers for Learning...
+title: Designers for Learning, the website, and blog.
 ---
 <center><h1> Designers for Learning, the website, and blog. </h1></center>
 <center><img src="https://cdn.pixabay.com/photo/2015/01/29/03/03/practice-615644_960_720.jpg" width="200" height="100" alt="Blog"></center>
