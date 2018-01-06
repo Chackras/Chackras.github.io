@@ -3,8 +3,9 @@ layout: posts
 title: My First Blog Post!
 ---
 <center><h1> My First Blog Post! </h1></center>
+<img src="https://get.pxhere.com/photo/word-alphabet-scrabble-brand-product-font-text-letters-blog-fashion-accessory-1099379.jpg" width="200" height="40" alt="Blog">
 
-<p>Continued from page 1: to ensure students specialized in curriculum and assessment design, development, evaluation, and implementation. Working in the K-12 school system for the past eight years has provided me with ample instructional design experience, from developing entire curriculums to individual instruction in the traditional, blended, and eLearning environments. I have done this in various L.M.S. such as Blackboard, Canvas, and Moodle.</p>
+<p>Recently I graduated from the University of West Florida with my Specialist in Education Degree, which had a focus on Curriculum and Instruction. The stated purpose of the program was to ensure students specialized in curriculum and assessment design, development, evaluation, and implementation. Working in the K-12 school system for the past eight years has provided me with ample instructional design experience, from developing entire curriculums to individual instruction in the traditional, blended, and eLearning environments. I have done this in various L.M.S. such as Blackboard, Canvas, and Moodle.</p>
 
 <p>By taking every opportunity to position myself towards gaining experience with I.D. methods and tools in the public education sector since starting the specialist degree in 2015, I have real world experience to couple with my degree. Although, the Specialist in education is considered a terminal degree in the corporate environment I have opted to continue and complete my doctorate. My thirst for knowledge and learning is unquenchable. This is a major reason I am attracted to the I.D. career path. Learning a various new skill and challenging my self to complete projects excites me.</p>
 
