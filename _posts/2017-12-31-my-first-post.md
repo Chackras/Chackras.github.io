@@ -3,7 +3,7 @@ layout: posts
 title: My First Blog Post!
 ---
 <center><h1> My First Blog Post! </h1></center>
-<img src="https://get.pxhere.com/photo/word-alphabet-scrabble-brand-product-font-text-letters-blog-fashion-accessory-1099379.jpg" width="200" height="40" alt="Blog">
+<img src="https://get.pxhere.com/photo/word-alphabet-scrabble-brand-product-font-text-letters-blog-fashion-accessory-1099379.jpg" width="200" height="200" alt="Blog">
 
 <p>Recently I graduated from the University of West Florida with my Specialist in Education Degree, which had a focus on Curriculum and Instruction. The stated purpose of the program was to ensure students specialized in curriculum and assessment design, development, evaluation, and implementation. Working in the K-12 school system for the past eight years has provided me with ample instructional design experience, from developing entire curriculums to individual instruction in the traditional, blended, and eLearning environments. I have done this in various L.M.S. such as Blackboard, Canvas, and Moodle.</p>
 
