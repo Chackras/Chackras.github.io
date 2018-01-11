@@ -35,7 +35,7 @@ Overall, this process was well worth the time and effort and I can see the benef
 
 Here is a look at my empathy mind map.
 
-<center><img src="img/MindMap.jpg" alt="Empathy Framework" style="width:75%;height:35%;"></center>
+<center><img src="img/MindMap.jpg" alt="Empathy Framework" </center>
 
 
 Until next time...
