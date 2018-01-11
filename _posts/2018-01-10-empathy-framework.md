@@ -42,3 +42,7 @@ Here is a look at my empathy mind map.
 
 
 Until next time...
+
+ <center><p>Reference</p></center>
+
+ Kouprie, M., & Visser, F. S. (2009). A framework for empathy in design: stepping into and out of the user's life. Journal Of Engineering Design, 20(5), 437-448. doi:10.1080/09544820902875033
