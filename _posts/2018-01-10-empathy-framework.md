@@ -3,7 +3,7 @@ layout: posts
 title: Instructional Design Process Part 1
 ---
 <center><h1> This is the initial stage of the instructional design process. </h1></center>
-<center><img src="https://learn.canvas.net/courses/1766/files/658793/preview" alt="Empathy Framework" style="width:125%;height:64%;"></center>
+<center><img src="https://learn.canvas.net/courses/1766/files/658793/preview" alt="Empathy Framework" style="width:75%;height:35%;"></center>
 
 Currently, I am volunteering for [Designers for Learning](http://designersforlearning.org/) providing instructional design for adult basic education (ABE) centers. I.D.'s progress through a course named [instructional evaluation](http://designersforlearning.org/openabemooc) that guides you through the I.D. process of analyzing, evaluating, and redesigning ABE materials. I completed the first module today; which, acts as a SME of sorts providing an intensive overview of the ABE landscape.
 
