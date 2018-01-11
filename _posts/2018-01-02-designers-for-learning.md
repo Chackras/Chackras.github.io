@@ -6,6 +6,7 @@ title: Designers for Learning, the website, and blog.
 <center><img src="https://media.licdn.com/media/p/2/005/0b7/3a7/1814569.png" width="200" height="100" alt="Blog"></center>
 <p> </p>
 
+
 I am volunteering for Designers for Learning in their instructional evaluation service course. Essentially, it is an opportunity for veteran I.D.s to give back to society, or a place where newbies can gain actual hands on instructional design experience. While I have been designing instruction for the past seven years, I find it helpful to practice often. This program provides that opportunity to instructional designers from all walks of life.
 
 
