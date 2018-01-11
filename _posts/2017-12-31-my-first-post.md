@@ -2,6 +2,7 @@
 layout: posts
 title: My First Blog Post!
 ---
+[A Jekyll post_url link]({% post_url _posts/2017-12-31-my-first-post.md %})
 <center><h1> My First Blog Post! </h1></center>
 <center><img src="https://get.pxhere.com/photo/word-alphabet-scrabble-brand-product-font-text-letters-blog-fashion-accessory-1099379.jpg" width="200" height="100" alt="Blog"></center>
 <p> </p>
