@@ -35,7 +35,7 @@ Overall, this process was well worth the time and effort and I can see the benef
 
 Here is a look at my empathy mind map.
 
-[Empathy Framework](img/MindMap.jpg) 
+![Empathy Framework]({{ "/img/MindMap.jpg" | absolute_url }})
 
 
 Until next time...
