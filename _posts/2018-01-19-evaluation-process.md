@@ -5,7 +5,7 @@ title: Instructional Design Process Part 2
 
 <center><h1> This is the second stage of the instructional design process. </h1></center>
 <center><img src="/img/addie-process.png" alt="ADDIE" style="width:20%;height:20%;"></center>
-<center><p>(Sandra Rogers, 2017)</p></center>
+<center><p>(Rogers, 2017)</p></center>
 
 <h2>Evaluation Process</h2>
 
