@@ -7,20 +7,20 @@ title: Instructional Design Process Part 2
 <center><img src="/img/addie-process.png" alt="ADDIE" style="width:20%;height:20%;"></center>
 <center><p>(Rogers, 2016)</p></center>
 
-<h2>Evaluation Process</h2>
+<center><h2>Evaluation Process</h2></center>
 
 
 In this blog post, lets delve back into the Designer for Learning project and look at understanding the process of evaluating a learning experience. I choose this [lesson]( https://www.oercommons.org/authoring/21416-good-and-bad-interviews-learn-and-practice)  and as you can see it is lacking some basic fundamental instructional design best practices.
 
 First lets look at the evaluation process.
 
-<h6> Lists of measurable verbs used to assess learning outcomes based on Bloom's Taxonomy</h6>
+<center><h6> Lists of measurable verbs used to assess learning outcomes based on Bloom's Taxonomy</h6></center>
 
 [List of Measurable Verbs Used to Assess Learning Outcomes](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
 
 [Bloom’s Taxonomy Action Verbs](http://www.fresnostate.edu/academics/oie/documents/assesments/Blooms%20Level.pdf)
 
-<h6>Your Evaluation Decisions:</h6>
+<center><h6>Your Evaluation Decisions:</h6></center>
 
 When looking at the lesson plan I reflected on these questions:
 
@@ -39,11 +39,11 @@ When looking at the lesson plan I reflected on these questions:
 
 * For any deficiencies you noted in the lesson's learning objectives, try your hand at drafting improved learning objectives. By the end of the lesson, the adult learner should be able to:
 
-<h4>Activation</h4>
+<center><h4>Activation</h4></center>
 
 <p><a href="http://www.beesburg.com/edtools/glossary.html"> Glossary of over 1,200 instructional strategies developed by Kelly Jo Rowan</a></p>
 
-<h6>Your Evaluation Decisions:</h6>
+<center><h6>Your Evaluation Decisions:</h6><center>
 
 I also reviewed the lesson plan and related instructional materials to reflect on the following:
 
@@ -58,7 +58,7 @@ I also reviewed the lesson plan and related instructional materials to reflect o
 
 * What are some other relevant life experiences that you could incorporate into a redesign of your lesson as part of an activation activity for the subject and topic of instruction you are evaluating, as well as the learner persona you are contemplating?
 
-<h4>Demonstration</h4>
+<center><h4>Demonstration</h4></center>
 
 The purpose of the demonstration phase is to show learners how to apply skills instead of merely telling them what to do. Demonstration activities can provide a meaningful context to general information, help learners develop mental models about the concepts, attract the learners’ attention, and sustain their curiosity. While demonstration activities are used to deliver the content, the learners don't need to be passive recipients.
 
@@ -72,7 +72,7 @@ Citing research on instruction, Merrill (2007, p. 10) suggests demonstration act
 
 4. Incorporate media that are relevant to the content and used to enhance learning.
 
-<h4>Evaluation</h4>
+<center><h4>Evaluation</h4></center>
 
 The Evaluation Decisions were made after reviewing the lesson plan, related instructional materials, and reflecting on the following:
 
@@ -93,7 +93,7 @@ The Evaluation Decisions were made after reviewing the lesson plan, related inst
 
 * What are some other types of presentation, storytelling, or other demonstration strategies you could incorporate into a redesign of your lesson?
 
-<h4>Application</h4>
+<center><h4>Application</h4></center>
 
 
 Application: Overview
@@ -141,7 +141,7 @@ Evaluation Decisions were made after reviewing the lesson plan, related instruct
 
 * What other application activities could incorporate into a redesign of your lesson for the subject and topic of instruction you are evaluating, as well as the learner persona you are contemplating?
 
-<h4>Integration</h4>
+<center><h4>Integration</h4></center>
 
 The instructional goal must be the learners who know what to do with the newly learned information. If they have information without knowing how and when to use, your instruction has not reached its goal. This situation is similar to having the latest version of a smartphone, but still using it only for phone calls because you do not know what to do with other features. Citing research on instruction, Merrill (2007, p. 13). Integration activities should provide:
 
@@ -185,7 +185,7 @@ Evaluation Decisions
 
 * What other integration activities could incorporate into a redesign of your lesson for the subject and topic of instruction you are evaluating, as well as the learner persona you are contemplating?
 
-<h4>Assessment</h4>
+<center><h4>Assessment</h4></center>
 
  As noted previously, learning objectives also play a role in learner assessment. At points in the learning experience, assessments are needed to determine whether or not learners are able to achieve or master the learning objectives.
 
@@ -215,7 +215,7 @@ Below is a list of assessment considerations from the:
 
 [Methods of Assessment](http://ae.gov.sk.ca/evergreen/science/part5/portion02.shtml)
 
-<h6>Your Evaluation Decisions</h6>
+<center><h6>Your Evaluation Decisions</h6></center>
 
 
 I Reviewed the lesson plan, related instructional materials, and reflected on the following:
@@ -250,7 +250,7 @@ In addition to contemplating the extent to which the lesson includes sound instr
 
 * Affective Consideration
 
-<h6>Content Elements</h6>
+<center><h6>Content Elements</h6></center>
 
 * Content sufficiency: Is the content prepared for the lesson sufficient to support course goals and objectives?
 
@@ -267,7 +267,7 @@ In addition to contemplating the extent to which the lesson includes sound instr
 * Length: Is the instructional unit of appropriate length, and can the learner complete the lesson within the estimated time frames?
 
 
-<h6>Course Structure and Sequencing</h6>
+<center><h6>Course Structure and Sequencing</h6></center>
 
 I considered the extent to which the following were effectively and efficiently designed within the lesson:
 
@@ -282,7 +282,7 @@ I considered the extent to which the following were effectively and efficiently 
 
 * How and when learner guidance will be offered
 
-<h6>Learner Experience</h6>
+<center><h6>Learner Experience</h6></center>
 
 I contemplated the degree to which the following learner experience, material design, and course navigation were effectively and efficiently presented:
 
@@ -300,7 +300,7 @@ I contemplated the degree to which the following learner experience, material de
 
 * Overall ease of use
 
-<h6>Instructional Media</h6>
+<center><h6>Instructional Media</h6></center>
 
 I Deliberated the instructional media elements efficiency and effectiveness in supporting the designed instructional approaches, and if any media elements should be added / amended to better support the instructional delivery:
 
@@ -340,7 +340,7 @@ I ruminated the scope to which the lesson was likely to accomplish the following
 
 I Looked for other areas of need as this list is not extensive.
 
-<h4> Personal Notes </h4>
+<center><h4> Personal Notes </h4></center>
 
 Take a look at excerpts of my notes to see how I evaluated the instruction:
 
