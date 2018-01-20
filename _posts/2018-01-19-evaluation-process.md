@@ -391,13 +391,16 @@ This lesson needs to be more interactive it is very barebones with only a single
 
 I hope to make the learning experience engaging and applicable to real-life. Providing more interaction and instruction has the ability to liven up the lesson. Further, some eLearning in the design would be beneficial for the student and the instructor.
 
-<center><img
-![Learning Experience Map]({{ site.url }}/img/LX1.png){:height="75%" width="75%"}
+<center><img src="/img/LX1.png" alt="Learning Experience Map" style="width:75%;height:75%;"></center>
+<center>
 
-![Learning Experience Map]({{ site.url }}/img/LX2.png){:height="75%" width="75%"}
+<center><img src="/img/LX2.png" alt="Learning Experience Map" style="width:75%;height:75%;"></center>
+<center>
 
-![Learning Experience Map]({{ site.url }}/img/LX3.png){:height="75%" width="75%"}
-</center>
+
+<center><img src="/img/LX3.png" alt="Learning Experience Map" style="width:20%;height:75%;"></center>
+<center>
+
 
 <center><p>Reference</p></center>
  Rogers, S. (2016) Instructional and Learner Analysis in Instructional Design. Teacher Rogers Blog. Retrieved From: https://teacherrogers.wordpress.com/2016/06/29/instructional-and-learner-analysis-in-instructional-design/
