@@ -4,7 +4,7 @@ title: Instructional Design Process Part 2
 ---
 
 <center><h1> This is the second stage of the instructional design process. </h1></center>
-<center><img src="https://teacherrogers.files.wordpress.com/2011/10/addie-process.png" alt="Empathy Framework" style="width:75%;height:35%;"></center>
+<center><img src="img/downloads-bg.jpg" alt="Empathy Framework" style="width:75%;height:35%;"></center>
 <center><p>(Sandra Rogers, 2017)</p></center>
 
 <h2>Evaluation Process</h2>
@@ -391,7 +391,7 @@ This lesson needs to be more interactive it is very barebones with only a single
 
 I hope to make the learning experience engaging and applicable to real-life. Providing more interaction and instruction has the ability to liven up the lesson. Further, some eLearning in the design would be beneficial for the student and the instructor.
 
-![Learning Experience Map]({{ site.url }}/img/learning-experience-map.pdf){:height="100%" width="100%"}
+![Learning Experience Map]({{ site.url }}/img/addie-process.png){:height="100%" width="100%"}
 
 
 <center><p>Reference</p></center>
