@@ -398,7 +398,7 @@ I hope to make the learning experience engaging and applicable to real-life. Pro
 <center>
 
 
-<center><img src="/img/LX3.png" alt="Learning Experience Map" style="width:20%;height:75%;"></center>
+<center><img src="/img/LX3.png" alt="Learning Experience Map" style="width:75%;height:75%;"></center>
 <center>
 
 
