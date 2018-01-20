@@ -391,7 +391,7 @@ This lesson needs to be more interactive it is very barebones with only a single
 
 I hope to make the learning experience engaging and applicable to real-life. Providing more interaction and instruction has the ability to liven up the lesson. Further, some eLearning in the design would be beneficial for the student and the instructor.
 
-![Learning Experience Map]({{ site.url }}/img/addie-process.png){:height="100%" width="100%"}
+![Learning Experience Map]({{ site.url }}/img/learning-experience-map.png){:height="100%" width="100%"}
 
 
 <center><p>Reference</p></center>
