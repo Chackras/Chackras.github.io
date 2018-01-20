@@ -43,7 +43,7 @@ When looking at the lesson plan I reflected on these questions:
 
 <p><a href="http://www.beesburg.com/edtools/glossary.html"> Glossary of over 1,200 instructional strategies developed by Kelly Jo Rowan</a></p>
 
-<center><h6>Your Evaluation Decisions:</h6><center>
+<center><h6>Your Evaluation Decisions:</h6></center>
 
 I also reviewed the lesson plan and related instructional materials to reflect on the following:
 
@@ -111,7 +111,7 @@ The purpose of application phase is to elevate learning from passive reading and
 
 5.  Require learners to use their new knowledge or skill to solve a varied sequence of problems or complete a varied sequence of tasks.
 
-<h6>Examples of Application Instructional Activities:</h6>
+<center><h6>Examples of Application Instructional Activities:</h6></center>
 
 * The following are a few examples of activities can be used for the application phase.
 
@@ -153,7 +153,7 @@ The instructional goal must be the learners who know what to do with the newly l
 
 4. Opportunity for learners to create, invent, or explore new and personal ways to use their new knowledge or skill.
 
-<h6>Examples of Integration Instructional Activities</h6>
+<center><h6>Examples of Integration Instructional Activities</h6></center>
 
 Examples of types of integration phase activities include:
 
@@ -231,7 +231,7 @@ I Reviewed the lesson plan, related instructional materials, and reflected on th
 
 * How can you vary the assessments to include both formal and informal assessments?
 
-<h4>Other Evaluation Considerations</h4>
+<center><h4>Other Evaluation Considerations</h4></center>
 
 
 In addition to contemplating the extent to which the lesson includes sound instructional principles discussed previously, I evaluated additional items that are described below, including:
@@ -321,7 +321,7 @@ I Deliberated the instructional media elements efficiency and effectiveness in s
 
 * Printable Documents
 
-<h6>Affective Considerations</h6>
+<center><h6>Affective Considerations</h6></center>
 
 I ruminated the scope to which the lesson was likely to accomplish the following for the target audience of learners:
 
