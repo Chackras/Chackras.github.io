@@ -368,6 +368,7 @@ Take a look at excerpts of my notes to see how I evaluated the instruction:
 * How-to is not provided as the lesson expects the learners to teach themselves the proper interview behaviors.
 
 * Guidance is not provided, and relevant information is not pointed out.
+
 * Nothing is compared and contrasted with higher learning skills.
 
 * Previously recalled information is not used.
@@ -386,6 +387,7 @@ Mentoring of TEC-Variety would be applicable to demonstration.
 * Activity 56. Cross-Cultural Web Conferencing and Interactions of TEC-Variety would provide an opportunity for students to practice via Skype.
 
 * An incorporation of an online game in which learners chose proper attire would be helpful.
+
 
 This lesson needs to be more interactive it is very barebones with only a single video for instruction. There is a lack of coaching and direction given to the teacher and students.
 
