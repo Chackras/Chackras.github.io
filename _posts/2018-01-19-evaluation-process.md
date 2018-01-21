@@ -406,9 +406,8 @@ I hope to make the learning experience engaging and applicable to real-life. Pro
 
 <center><p>Reference</p></center>
 
-Merrill, M. D. (2007). First principles of instruction: a synthesis. In R. A. Reiser & J. V. Dempsey (Eds.), Trends and Issues in Instructional Design and Technology, 2nd Edition (Vol. 2, pp. 62-71). Upper Saddle River, NJ: Merrill/Prentice Hall. [Retrieved From Here](http://mdavidmerrill.com/Papers/FirstPrinciplesSynthesis.pdf)
+<p>Merrill, M. D. (2007). First principles of instruction: a synthesis. In R. A. Reiser & J. V. Dempsey (Eds.), Trends and Issues in Instructional Design and Technology, 2nd Edition (Vol. 2, pp. 62-71). Upper Saddle River, NJ: Merrill/Prentice Hall.<a href="http://mdavidmerrill.com/Papers/FirstPrinciplesSynthesis.pdf"> Retrieved From Here</a></p>
 
 
-
- Rogers, S. (2016) Instructional and Learner Analysis in Instructional Design. Teacher Rogers Blog.
- [Retrieved From Here](https://teacherrogers.wordpress.com/2016/06/29/instructional-and-learner-analysis-in-instructional-design/)
+ <p>Rogers, S. (2016) Instructional and Learner Analysis in Instructional Design. Teacher Rogers Blog.<a href="https://teacherrogers.wordpress.com/2016/06/29/instructional-and-learner-analysis-in-instructional-design/"> Retrieved From Here</a></p>
+<p> </p>
