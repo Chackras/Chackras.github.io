@@ -403,8 +403,8 @@ I hope to make the learning experience engaging and applicable to real-life. Pro
 <center><img src="/img/LX3.png" alt="Learning Experience Map" style="width:75%;height:75%;"></center>
 <center>
 
-
-<center><p>Reference</p></center>
+<p> </p>
+<center><p>References</p></center>
 
 <p>Merrill, M. D. (2007). First principles of instruction: a synthesis. In R. A. Reiser & J. V. Dempsey (Eds.), Trends and Issues in Instructional Design and Technology, 2nd Edition (Vol. 2, pp. 62-71). Upper Saddle River, NJ: Merrill/Prentice Hall.<a href="http://mdavidmerrill.com/Papers/FirstPrinciplesSynthesis.pdf"> Retrieved From Here</a></p>
 
