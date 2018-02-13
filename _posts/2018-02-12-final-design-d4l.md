@@ -3,7 +3,7 @@ layout: posts
 title: Instructional Design Process Part 3
 ---
 <center><h1>The Final Product</h1></center>
-<center><img src="/img/Certificate  Instructional Evaluation.png" alt="Designer for Learning Certificate" style="width:100%;height:50%;"></center>
+<center><img src="/img/Certificate  Instructional Evaluation.png" alt="Designer for Learning Certificate" style="width:30%;height:30%;"></center>
 <p>  </p>
 
 The end product was an open source traditional (face-to-face) instructional component, and an e-learning design that could be used to complement the traditional instruction in a blended environment, or it could be used strictly as an e-learning tool. To do this I completed the traditional instruction first with an activity that grabs the attention of the learner by engaging them in real-world issues that currently affect the students, so they can see the value in the lesson. Merels First Principles of instruction was used to guide me and ensuring the lesson was meaningful to the adult learner.
