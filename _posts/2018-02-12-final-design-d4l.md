@@ -9,9 +9,9 @@ title: Instructional Design Process Part 3
 The end product was an open source traditional (face-to-face) instructional component, and an e-learning design that could be used to complement the traditional instruction in a blended environment, or it could be used strictly as an e-learning tool. To do this I completed the traditional instruction first with an activity that grabs the attention of the learner by engaging them in real-world issues that currently affect the students, so they can see the value in the lesson. Merels First Principles of instruction was used to guide me and ensuring the lesson was meaningful to the adult learner.
 
 
-<h4>Warm-Up
+<center><h4>Warm-Up
 Time: 15 min
-Job connection and strategic planning paper:</h4>
+Job connection and strategic planning paper:</h4></center>
 
 
 * Students prepare for job interviews by planning their personal career path.
@@ -41,8 +41,8 @@ This lesson accomplished 2 task first it activates prior knowledge by asking stu
 The next step in the design process was to introduce the lesson to the student. In this portion of the lesson after the students’ attention has been focused activating prior knowledge is important to ensure learning gains are mane through connection of the material. To accomplish this the students are asked to popcorn out what they know about the subject.
 
 
-<h4>Introduction
-Time: 10  min</h4>
+<center><h4>Introduction
+Time: 10  min</h4></center>
 
 
 Explain that the students will be learning the proper procedures to Ace a professional job interview.
@@ -54,32 +54,32 @@ Activate prior knowledge by asking students to: Teacher create a chart with thre
 Now the lesson is ready to be presented to the students as they are engaged, and primed to fully take in the lesson. To ensure the learner isn’t lost this process must chunk the new information students receive so they can fully grasp the material.
 
 
-<h4>Main Lesson:
-Time: 10 min</h4>
+<center><h4>Main Lesson:
+Time: 10 min</h4></center>
 
 
 Have students watch https://youtu.be/3AgfK3R8Pgs then break into pairs and discuss the interview particularly the dress of the candidate, behavior of the candidate, and the speech of the candidate. One student from each group will share their findings with the class.
 
 
-<h4>Time: 5 min</h4>
+<center><h4>Time: 5 min</h4></center>
 
 
 Have students watch https://youtu.be/naIkpQ_cIt0 then break into pairs and discuss the interview particularly the dress of the candidate, behavior of the candidate, and the speech of the candidate. One student from each group will share their findings with the class.
 
 
-<h4>Time: 15 min</h4>
+<center><h4>Time: 15 min</h4></center>
 
 
 Go over the big three interview skills document with the students.
 
 
-<h4>Time: 2 min</h4>
+<center><h4>Time: 2 min</h4></center>
 
 
 Distribute the Interview skills infographic.
 
 
-<h4>Time: 2 min</h4>
+<center><h4>Time: 2 min</h4></center>
 
 Watch the powtoon video. https://youtu.be/QFZ_6XgnDIQ
 
@@ -87,8 +87,8 @@ Watch the powtoon video. https://youtu.be/QFZ_6XgnDIQ
 Now that the lesson has been learned and the students have new knowledge it is important to practice what was learned by the students. To do this the students’ role play the interview process. A learning aid that was made also allows the students quick reference to the key concepts learned in the lesson. It’s important that this practice is guided by the teacher when possible so students receive feedback from an expert in the subject.
 
 
-<h4>Guided Practice:
-Time: 10 min</h4>
+<center><h4>Guided Practice:
+Time: 10 min</h4></center>
 
 Pass out the Interview question hand out.
 
@@ -105,17 +105,17 @@ The evaluation process is an important component is any lesson because it solidi
 Finally, application of the skills learned is the end goal of the lesson. This is done through community based learning. Community based learning askes students to use the skills learned in an actually interview. This can be a mock interview, but it should be an simulation that is realistic as posable with the medium being used.
 
 
-<h4>Application
-Community Learning Project</h4>
+<center><h4>Application
+Community Learning Project</h4></center>
 
 
-<h6>Option 1:</h6> Students will complete a resume, cover letter, and thank you note with instructor guidance. Students will then complete several applications for the profession in which they wish to enter on indeed.com with instructor guidance online. Students will accept interviews, attend actual interviews in person, and report their experience to the class.
+**Option 1:** Students will complete a resume, cover letter, and thank you note with instructor guidance. Students will then complete several applications for the profession in which they wish to enter on indeed.com with instructor guidance online. Students will accept interviews, attend actual interviews in person, and report their experience to the class.
 
 
-<h6>Option 2:</h6> Students will complete a resume, cover letter, and thank you note with instructor guidance. Students will attend a job-fair for the profession in which they wish to enter on indeed.com with instructor guidance online. Students will do as many interviews as they can and report their experience to the class.
+**Option 2:** Students will complete a resume, cover letter, and thank you note with instructor guidance. Students will attend a job-fair for the profession in which they wish to enter on indeed.com with instructor guidance online. Students will do as many interviews as they can and report their experience to the class.
 
 
-<h6>Option 3:</h6> Students will complete a resume, cover letter, and thank you note with instructor guidance. The instructor will bring in a local small business owner, or send the students to their office for a mock interview. The student will report the experience to the class.
+**Option 3:** Students will complete a resume, cover letter, and thank you note with instructor guidance. The instructor will bring in a local small business owner, or send the students to their office for a mock interview. The student will report the experience to the class.
 
 
 To fully understand the overhaul of this lesson here is the link to the original design:
